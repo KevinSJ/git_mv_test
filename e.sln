@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A7A4BBD7-40D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "e", "e", "{9D275777-43DE-4CEF-91E5-4891714C0185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib.e", "src\e\lib.e\lib.e.csproj", "{98396343-9617-4630-B278-2D86FF73A27F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e", "src\e\e\e.csproj", "{98396343-9617-4630-B278-2D86FF73A27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib.e.model", "src\e\lib.e.model\lib.e.model.csproj", "{5544360E-15C0-4328-B4F1-9901C12F3B99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.model", "src\e\e.model\e.model.csproj", "{5544360E-15C0-4328-B4F1-9901C12F3B99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib.e.abstraction", "src\e\lib.e.abstraction\lib.e.abstraction.csproj", "{8B3C911E-DE0B-44F6-8436-5136080E0A0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.abstraction", "src\e\e.abstraction\e.abstraction.csproj", "{8B3C911E-DE0B-44F6-8436-5136080E0A0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib.e.test", "src\e\lib.e.test\lib.e.test.csproj", "{8CE2D61E-2C17-488B-9C41-AB53CC98DD50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.test", "src\e\e.test\e.test.csproj", "{8CE2D61E-2C17-488B-9C41-AB53CC98DD50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
