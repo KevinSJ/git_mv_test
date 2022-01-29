@@ -4,8 +4,12 @@
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<AssemblyName>lib.f</AssemblyName>
+		<Authors>huhubun</Authors>
+		<Description>lib.f</Description>
+		<PackageProjectUrl>https://github.com/huhubun/git_mv_test</PackageProjectUrl>
 	</PropertyGroup>
 
-	<!-- this is lib.e -->
+	<!-- this is lib.f -->
 
 </Project>
