@@ -1,0 +1,2 @@
+lib b test
+b.test.txt
